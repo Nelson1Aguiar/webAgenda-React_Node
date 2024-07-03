@@ -11,5 +11,7 @@ Em seguida, execute o frontend com o comando "npm start" e use como quiser.
 O projeto consiste em uma agenda telefônica onde um usuário pode ter seus contatos e estes contatos podem ter tarefas ou trocar mensagens. O backend do projeto foi feito em Node, utilizando um banco de dados MySQL, já o frontend foi feito em react, utilizando a lib axios para se comunicar com a API do backend.
 
 ## Evidências de funcionamento
+### Cadastro
 ![image](https://github.com/Nelson1Aguiar/webAgenda-React_Node/assets/132019512/b066c57b-4d19-4e9a-b562-b26d452e0229)
+![image](https://github.com/Nelson1Aguiar/webAgenda-React_Node/assets/132019512/4836d3df-6df7-4822-b176-163c7358e3d9)
 
