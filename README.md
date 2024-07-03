@@ -12,7 +12,7 @@ O projeto consiste em uma agenda telefônica onde um usuário pode ter seus cont
 
 ## Evidências de funcionamento: Vídeo
 
-[Meu link drive](https://drive.google.com/drive/folders/19NHzEbvLfgaooS5G2EQvii37ywIcg828?usp=sharing)
+[Vídeo de funcionalidades](https://drive.google.com/drive/folders/19NHzEbvLfgaooS5G2EQvii37ywIcg828?usp=sharing)
 
 ## Evidências de funcionamento: Imagens
 
